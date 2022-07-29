@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .input_style { @apply bg-white px-4 py-2 text-blue-700 outline-none border-2 border-blue-700 font-bold uppercase rounded-md }
+}
