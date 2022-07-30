@@ -1,2 +1,2 @@
 # auth-system
-Login signup and Authentication system
+**Login, signup and Authentication system**
